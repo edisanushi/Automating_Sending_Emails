@@ -1,0 +1,65 @@
+{
+  "email8765181911": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "test@mailinator.com",
+    "subject": "Daily reports for test@mailinator.com",
+    "text": "Hello test@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email4127224024": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "emailtest@mailinator.com",
+    "subject": "Daily reports for emailtest@mailinator.com",
+    "text": "Hello emailtest@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email3714421778": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "testemailautomation@mailinator.com",
+    "subject": "Daily reports for testemailautomation@mailinator.com",
+    "text": "Hello testemailautomation@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email3950012727": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "test@mailinator.com",
+    "subject": "Daily reports for test@mailinator.com",
+    "text": "Hello test@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email1493877318": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "emailtest@mailinator.com",
+    "subject": "Daily reports for emailtest@mailinator.com",
+    "text": "Hello emailtest@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email7676227335": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "testemailautomation@mailinator.com",
+    "subject": "Daily reports for testemailautomation@mailinator.com",
+    "text": "Hello testemailautomation@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email2511119327": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "test@mailinator.com",
+    "subject": "Daily reports for test@mailinator.com",
+    "text": "Hello test@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email7118781798": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "emailtest@mailinator.com",
+    "subject": "Daily reports for emailtest@mailinator.com",
+    "text": "Hello emailtest@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  },
+  "email5391528366": {
+    "sender": "testtest0000006@gmail.com",
+    "receiver": "testemailautomation@mailinator.com",
+    "subject": "Daily reports for testemailautomation@mailinator.com",
+    "text": "Hello testemailautomation@mailinator.com, here are your daily reports for today. ",
+    "attachment": "DailyReport.txt"
+  }
+}
